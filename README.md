@@ -1,8 +1,11 @@
 <img src="Banner.jpg" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
-I'm Currently Working on My Webpage<br> Full-Stack Web Developer | UI/UX Designer | Discord Bot Developer<br>Founder of Red Magic Studio & CODEx CUSTOMS<br>
+# Hello World!, I'm Jefree Chacko 👋🏼
+I'm currently working on my own [Website](juliuznova.infy.uk)<br>🚀 Full-Stack Web Developer | UI/UX Designer | Discord Bot Developer<br>🎨 Founder of Red Magic Studio & CODEx CUSTOMS<br>
 
+Hey there! I'm a passionate web developer & designer specializing in high-performance websites, web apps, Android apps, and custom Discord bots. I create modern, scalable, and user-friendly digital solutions that blend creativity with functionality. 🚀
+
+Let’s create something amazing together! 💡🔥
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jefreechacko) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VZnxNcKq7j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliux_nova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jefreechacko@gmail.com) 
