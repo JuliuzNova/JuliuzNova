@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/HD9c0wP)](juliuznova.infy.uk)
+<img src="Banner.jpg" alt="GitHub Banner" width="100%" />
 # 💫 About Me:
 I'm Currently Woking on My Webpage<br> Full-Stack Web Developer | UI/UX Designer | Discord Bot Developer<br>Founder of Red Magic Studio & CODEx CUSTOMS<br>
 
